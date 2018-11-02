@@ -7,4 +7,6 @@ print(
 
 plt.plot(0, 1)
 
+sad = 0
+
 plt.show()
